@@ -33,7 +33,7 @@ public class Main
 
               Thread.sleep(100);
 
-            }catch(InterruptedException ex){
+            }catch(InterruptedException vegeta){
 
 
             }
